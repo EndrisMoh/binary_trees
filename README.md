@@ -1,4 +1,4 @@
-## binary_trees
+## Binary Trees
 
 This repo is about Binary Trees group project at ALX-Africa
 
