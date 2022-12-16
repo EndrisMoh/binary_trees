@@ -30,8 +30,8 @@ avl_t *aux_sort(avl_t *parent, int *array, int begin, int last)
  * sorted_array_to_avl - create a alv tree from sorted array
  * @array: a pointer to the first element of the array to be converted
  * @size: the number of element in the array
- * Return: a pointer to the root node of the created AVL tree, or NULL on failure
- *         Assume there will be no duplicate value in the array & not allowed 
+ * Return: a pointer to the root node of created AVL tree, or NULL on failure
+ *         Assume there will be no duplicate value in the array & not allowed
  *         to rotate
  */
 avl_t *sorted_array_to_avl(int *array, size_t size)
