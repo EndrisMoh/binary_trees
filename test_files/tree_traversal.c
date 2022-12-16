@@ -1,4 +1,4 @@
-// Tree traversal in C
+// Tree traversal in C from programiz.com
 
 #include <stdio.h>
 #include <stdlib.h>
