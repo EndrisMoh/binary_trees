@@ -101,7 +101,7 @@ void heapify(heap_t *root)
  * heap_extract - Extracts the root node of a Max Binary Heap
  * @root: a double pointer to the root node of heap
  * Return: the value stored in the root node and 0 on failure
- *    The root node must be freed and replace with the last 
+ *    The root node must be freed and replace with the last
  *    level-order node of the heap
  *    Once replaced, the heap must be rebuilt if necessary
  */
